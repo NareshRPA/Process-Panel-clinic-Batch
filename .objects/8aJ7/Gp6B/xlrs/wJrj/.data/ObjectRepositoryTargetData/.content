@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="--tgKTDmJUa9L5LlPT2GIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sundirect.in/login" CVScreenId="d3a73bc4-255e-43d8-a8e2-6aa0eeb7281b" CvTextArea="1397, 500, 367, 40" CvType="AnyWordGroup" DesignTimeRectangle="1397, 497, 366, 44" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Login to Sun Direct' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='w-[100%] shrink-0 justify-start items-start self-stretch  text-gray-700 suntext-2xl text-center font-bold font-[&amp;apos;Montserrat&amp;apos;] text-2xl leading-[29px]' /&gt;" Guid="ad029abd-f0f5-4fe2-bd11-a23834bb1694" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sun Direct DTH Login' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f69081d1af92862009ba199344c8d1f8.png" xmlns="">0x4S5aH1T-UWfTOT9Zuv4vg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
